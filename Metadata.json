@@ -1,0 +1,33 @@
+[{
+    "description": "Sea makes as calm.", 
+    "external_url": "https://kba.ai/", 
+    "image": "https://amaranth-bold-basilisk-287.mypinata.cloud/ipfs/QmUkiLmokL12UvzgMS4Bz3VZPeR85nJZcfwCAQhptpDNpp", 
+    "name": "Blue Sea",
+    "attributes": [ 
+        {
+            "trait_type": "Color", 
+            "value": "Blue"
+          },
+          {
+            "trait_type": "Mood", 
+            "value": "Refreshing"
+          } 
+     ]
+  },
+  {
+    "description": "Sea gives memories.", 
+    "external_url": "https://kba.ai/", 
+    "image": "https://amaranth-bold-basilisk-287.mypinata.cloud/ipfs/QmcwxVqGKRwYx9tRAUsjoB6M97waW4eVF2Y9oTC3s42BFy", 
+    "name": "Nostalgic Sea",
+    "attributes": [ 
+        {
+            "trait_type": "Color", 
+            "value": "Black & White"
+          },
+          {
+            "trait_type": "Mood", 
+            "value": "Nostalgic"
+          } 
+     ]
+  }
+]
